@@ -1,0 +1,174 @@
+{
+  "main": {
+    "id": "a04a2fb7967c8daa",
+    "type": "split",
+    "children": [
+      {
+        "id": "e1f3cb3bfccbf3e1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "617cff030acd8454",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0249820d0d46b274",
+    "type": "split",
+    "children": [
+      {
+        "id": "3d503cacd6f85a03",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ae40faa22d9d670c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3676fed51125eb6e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "aa16f523d62eb7e1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "592f17df65df25c8",
+    "type": "split",
+    "children": [
+      {
+        "id": "d9edf6c97963ae5c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1ee40b9372ad1c6c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "39f1f0c7687e8e4e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2a7e06c5310e0714",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "083b01f769684fe6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "617cff030acd8454",
+  "lastOpenFiles": [
+    "C++/분할구현.md",
+    "C++/C ++.md",
+    "C++/배열.md",
+    "C++/함수.md",
+    "C++/반복문, 변수.md",
+    "C++/조건식.md",
+    "C++/연산자.md",
+    "C++/자료형.md",
+    "C++/포인터.md",
+    "C++/기억클래스와 변수.md",
+    "무제 폴더",
+    "자료구조/행렬.md",
+    "실습/선형리스트 - 배열.md",
+    "자료구조/선형 리스트.md",
+    "실습",
+    "자료구조/순차 자료구조.md",
+    "자료구조/리스트의 표현.canvas",
+    "자료구조/연결 자료구조.md",
+    "[리스트의 표현.canvas",
+    "선형리스트.md",
+    "무제 파일.canvas",
+    "C++",
+    "무제 파일.md",
+    "자료구조",
+    "육아/트름.md",
+    "육아/이현.md",
+    "C++/C++.md",
+    "2023-09-12.md",
+    "육아",
+    "C++"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"3d5a364c549981a0","type":"text","text":"","x":266,"y":-60,"width":250,"height":60},
+		{"id":"a4dbd7e3edaecf98","type":"text","text":"HEAD 노드\nA노드","x":266,"y":-60,"width":250,"height":60,"color":"1"},
+		{"id":"5bbb0c22fb6f7966","type":"text","text":"B노드","x":630,"y":-108,"width":250,"height":60},
+		{"id":"5ac6fb8c8fe0d157","type":"text","text":"TAIL노드\nC노드","x":950,"y":-27,"width":250,"height":60,"color":"3"}
+	],
+	"edges":[
+		{"id":"fd2293c938a9d27b","fromNode":"a4dbd7e3edaecf98","fromSide":"right","toNode":"5bbb0c22fb6f7966","toSide":"left"},
+		{"id":"18853c66f189aa8b","fromNode":"5bbb0c22fb6f7966","fromSide":"right","toNode":"5ac6fb8c8fe0d157","toSide":"left"}
+	]
+}
