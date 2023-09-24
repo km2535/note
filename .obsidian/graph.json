@@ -27,6 +27,13 @@
         "a": 1,
         "rgb": 11389314
       }
+    },
+    {
+      "query": "path:일기 ",
+      "color": {
+        "a": 1,
+        "rgb": 15186603
+      }
     }
   ],
   "collapse-display": false,
@@ -39,6 +46,6 @@
   "repelStrength": 6.875,
   "linkStrength": 0.567708333333333,
   "linkDistance": 165,
-  "scale": 1.0000000000000189,
+  "scale": 0.7132754626224562,
   "close": false
 }
