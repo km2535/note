@@ -11,8 +11,12 @@
             "id": "617cff030acd8454",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "C++/enum.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "C++/enum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "C++/enum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "C++/enum.md"
+              }
             }
           }
         ]
@@ -140,12 +148,13 @@
   },
   "active": "617cff030acd8454",
   "lastOpenFiles": [
-    "무제 파일.canvas",
     "C++/map.md",
+    "C++/enum.md",
+    "그림/트리구조.png",
     "C++/set.md",
+    "무제 파일.canvas",
     "C++/C ++.md",
     "C++/트리.md",
-    "그림/트리구조.png",
     "그림",
     "C++/포인터.md",
     "일기",
