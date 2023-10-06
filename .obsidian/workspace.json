@@ -11,8 +11,12 @@
             "id": "ece645177b9982d5",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "C++/기억클래스와 변수.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "C++/기억클래스와 변수.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "C++/기억클래스와 변수.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "C++/기억클래스와 변수.md"
+              }
             }
           }
         ]
@@ -140,6 +148,8 @@
   },
   "active": "ece645177b9982d5",
   "lastOpenFiles": [
+    "C++/구조체.md",
+    "C++/자료형.md",
     "자료구조/자료구조.md",
     "자료구조/연결 리스트/연결 리스트.md",
     "자료구조/stack.md",
@@ -156,7 +166,6 @@
     "C++/열거형(enum).md",
     "C++/C ++.md",
     "C++/공용체.md",
-    "C++/구조체.md",
     "C++/배열.md",
     "C++/분할구현.md",
     "자료구조/행렬.md",
