@@ -2,7 +2,7 @@
   "collapse-filter": false,
   "search": "",
   "showTags": false,
-  "showAttachments": true,
+  "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
@@ -34,6 +34,20 @@
         "a": 1,
         "rgb": 15186603
       }
+    },
+    {
+      "query": "path:블록체인  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    },
+    {
+      "query": "path:웹서비스  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431428
+      }
     }
   ],
   "collapse-display": false,
@@ -42,10 +56,10 @@
   "nodeSizeMultiplier": 1.29947916666667,
   "lineSizeMultiplier": 2.3203125,
   "collapse-forces": false,
-  "centerStrength": 0.161458333333333,
-  "repelStrength": 6.875,
-  "linkStrength": 0.567708333333333,
-  "linkDistance": 165,
-  "scale": 0.5087618855792714,
+  "centerStrength": 0.427083333333333,
+  "repelStrength": 8.35,
+  "linkStrength": 0.427083333333333,
+  "linkDistance": 170,
+  "scale": 0.4505081176757848,
   "close": false
 }
