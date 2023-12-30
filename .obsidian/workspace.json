@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "ccd0a5f3066147c8",
+        "id": "0b2f2287c49955a0",
         "type": "tabs",
         "children": [
           {
-            "id": "6b413463c9665b22",
+            "id": "58b43130b1b128a1",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "웹서비스/인터 네트워킹.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,13 +85,14 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "웹서비스/인터 네트워킹.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": true,
-                "unlinkedCollapsed": true
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "웹서비스/인터 네트워킹.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,14 +124,17 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "웹서비스/인터 네트워킹.md"
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 260.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -138,48 +147,48 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "6b413463c9665b22",
+  "active": "ae40faa22d9d670c",
   "lastOpenFiles": [
-    "웹서비스/웹 서비스와 JSP.md",
-    "웹서비스/JSP/JSP 태그.md",
-    "웹서비스/JSP/JSP 개요.md",
-    "웹서비스/JSP/JSP.md",
-    "웹서비스/JSP/액션 태그.md",
-    "웹서비스/JSP/디렉티브 태그.md",
-    "웹서비스/REST와 SOA의 동작방식.md",
-    "웹서비스/JAVA/인터페이스.md",
-    "웹서비스/JAVA/상속.md",
-    "웹서비스/JAVA/Java.md",
-    "웹서비스/JAVA/추상클래스.md",
-    "C++/오버라이딩, 오버로딩.md",
-    "오버로딩.md",
-    "웹서비스/JAVA/배열.md",
-    "웹서비스/객체지향.md",
-    "웹서비스/웹 서비스.md",
-    "웹서비스/JAVA/클래스.md",
-    "웹서비스/JAVA/메서드.md",
-    "웹서비스/JAVA/반복문.md",
-    "웹서비스/JAVA/조건문, 제어문.md",
-    "웹서비스/HTTP와 HTTP 메시지의 구조.md",
+    "웹서비스/SSL 과 HTTPS.md",
     "웹서비스/웹 애플리케이션.md",
+    "웹서비스/웹 서비스와 JSP.md",
+    "웹서비스/객체지향.md",
+    "웹서비스/JSP/JSP.md",
+    "웹서비스/인터 네트워킹.md",
+    "웹서비스/웹서비스의 기본적인 구조.md",
+    "웹서비스/JSP/JSP 파일 업로드 형태.md",
+    "그림/브리지 동작.png",
+    "그림/리피터.png",
+    "그림/브리지.png",
+    "그림/OSI 7계층.png",
+    "그림/인터네트워킹 장비.png",
+    "웹서비스/웹 서비스.md",
+    "웹서비스/REST와 SOA의 동작방식.md",
+    "웹서비스/웹 시스템 보안 기법.md",
+    "웹서비스/JSP/JSP의 정보 전송.md",
+    "웹서비스/JSP/액션 태그.md",
+    "그림/Pasted image 20231105220851.png",
+    "그림/Pasted image 20231105220830.png",
+    "그림/Pasted image 20231105220756.png",
+    "그림/Pasted image 20231105220737.png",
+    "그림/연결리스트.png",
+    "웹서비스/JSP/JSP 태그.md",
+    "웹서비스/JSP/JSP 폼 태그.md",
+    "웹서비스/HTTP와 HTTP 메시지의 구조.md",
+    "웹서비스/JSP/내장객체.md",
+    "자료구조/실습/선형리스트 - 배열.md",
+    "블록체인/솔리디티/함수.md",
+    "일기/2023-09-21.md",
+    "블록체인/솔리디티/솔리디티.md",
+    "블록체인/블록체인.md",
+    "블록체인/솔리디티/데이터 타입.md",
+    "블록체인/솔리디티/개발환경.md",
+    "블록체인/스마트 계약.md",
+    "블록체인/솔리디티",
+    "웹서비스/JSP/JSP 개요.md",
     "무제 파일.canvas",
-    "웹서비스/JAVA/Java 개요.md",
     "웹서비스/JAVA",
     "무제 파일 1.canvas",
-    "C++/선행처리자.md",
-    "그림/Pasted image 20231004140937.png",
-    "블록체인/스마트 계약.md",
-    "블록체인/단방향 암호화.md",
-    "블록체인/무제 폴더",
-    "그림/JVM.png",
-    "그림/자바 환경.png",
-    "그림/WAS 처리 과정.png",
-    "그림/웹 애플리케이션 주요 요소.png",
-    "그림/상속.png",
-    "그림/객체 생성.png",
-    "그림/웹 애플리케이션 3계층.png",
-    "그림/웹 애플리케이션 아키텍처.png",
-    "그림/웹서버.png",
     "웹서비스/JSP",
     "자료구조/리스트의 표현.canvas",
     "웹서비스",
@@ -187,7 +196,7 @@
     "자료구조/연결 리스트",
     "그림",
     "일기",
-    "실습",
+    "자료구조/실습",
     "[리스트의 표현.canvas",
     "C++"
   ]
